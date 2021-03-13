@@ -1,4 +1,5 @@
 This is a Chrome Extension that attempts to remove distractions that show up in oft-visited websites.
+![linkedin-screenshot](https://github.com/RishabhMalviya/feed-killer/blob/master/demos/linkedin.png?raw=true)
 
 # How To Install
 1. Clone this repo to some location on your computer: `git clone https://github.com/RishabhMalviya/feed-killer.git`.
